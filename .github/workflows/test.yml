@@ -23,7 +23,9 @@ jobs:
             - name: List of files from folder data
               run: dir data
             
-            - name: Run Python Script
-              run: python main.py
+            - name: Run tests
+              run: |
+                cd src
+                python main.py
 
 
