@@ -24,6 +24,6 @@ jobs:
               run: dir data
             
             - name: Run Python Script
-              run: python python.py
+              run: python main.py
 
 
