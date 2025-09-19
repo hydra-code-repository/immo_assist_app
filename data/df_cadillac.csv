@@ -1,0 +1,105 @@
+Year,Make,Model,Security,Hardware Part Number,Is this hardware clonable?
+1989,Cadillac,Allante,PK1,Information not available,No
+1989,Cadillac,Eldorado,PK1,Information not available,No
+1989,Cadillac,Seville,PK1,Information not available,No
+1990,Cadillac,Allante,PK1,Information not available,No
+1990,Cadillac,Deville,PK1,Information not available,No
+1990,Cadillac,Eldorado,PK1,Information not available,No
+1990,Cadillac,Seville,PK1,Information not available,No
+1991,Cadillac,Allante,PK1,Information not available,No
+1991,Cadillac,Deville,PK1,Information not available,No
+1991,Cadillac,Eldorado,PK1,Information not available,No
+1991,Cadillac,Seville,PK1,Information not available,No
+1992,Cadillac,Allante,PK1,Information not available,No
+1992,Cadillac,Brougham,PK1,Information not available,No
+1992,Cadillac,Deville,PK1,Information not available,No
+1992,Cadillac,Eldorado,PK1,Information not available,No
+1992,Cadillac,Seville,PK1,Information not available,No
+1993,Cadillac,Allante,PK1,Information not available,No
+1993,Cadillac,Brougham,PK1,Information not available,No
+1993,Cadillac,Deville,PK1,Information not available,No
+1993,Cadillac,Eldorado,PK1,Information not available,No
+1993,Cadillac,Seville,PK1,Information not available,No
+1994,Cadillac,Deville,PK1,Information not available,No
+1994,Cadillac,Eldorado,PK1,Information not available,No
+1994,Cadillac,Brougham,PK2,Information not available,No
+1994,Cadillac,Seville,PK2,Information not available,No
+1995,Cadillac,Deville,PK1,Information not available,No
+1995,Cadillac,Eldorado,PK1,Information not available,No
+1995,Cadillac,Brougham,PK2,Information not available,No
+1995,Cadillac,Seville,PK2,Information not available,No
+1996,Cadillac,Brougham,PK2,Information not available,No
+1996,Cadillac,Deville,PK2,U42C-484,No
+1996,Cadillac,Eldorado,PK2,U42C-484,No
+1996,Cadillac,Seville,PK2,U42C-484,No
+2002,Cadillac,Escalade EXT,PL2,Information not available,No
+2003,Cadillac,CTS,PK3,E56-752,No
+2003,Cadillac,Escalade ESV,PL2,Information not available,No
+2003,Cadillac,Escalade EXT,PL2,U44G-G03,No
+2004,Cadillac,XLR,EZ,U36-E22,No
+2004,Cadillac,CTS,PK3,E55-507,No
+2004,Cadillac,SRX,PK3,E55-507,No
+2004,Cadillac,Escalade ESV,PL2,Information not available,No
+2004,Cadillac,Escalade EXT,PL2,U44G-G45,No
+2005,Cadillac,STS,EZ,E55-509,No
+2005,Cadillac,XLR,EZ,U36-E22,No
+2005,Cadillac,CTS,PK3,U44G-G45,No
+2005,Cadillac,SRX,PK3,E55-507,No
+2005,Cadillac,Escalade ESV,PL2,Information not available,No
+2005,Cadillac,Escalade EXT,PL2,U44G-G45,No
+2006,Cadillac,STS,EZ,E55-509,No
+2006,Cadillac,XLR,EZ,U36-E22,No
+2006,Cadillac,CTS,PK3,U44G-G45,No
+2006,Cadillac,DTS,PK3,Information not available,No
+2006,Cadillac,SRX,PK3,U36-E22,No
+2006,Cadillac,Escalade ESV,PL2,Information not available,No
+2006,Cadillac,Escalade EXT,PL2,U44G-G45,No
+2007,Cadillac,STS,KA,E67-TP1,No
+2007,Cadillac,XLR,KA,Information not available,No
+2007,Cadillac,CTS,PK3,E55-507,No
+2007,Cadillac,DTS,PK3,E67-TP1,No
+2007,Cadillac,Escalade,PK3,E38-Y2Y,Yes
+2007,Cadillac,Escalade ESV,PK3,Information not available,No
+2007,Cadillac,Escalade EXT,PK3,Information not available,No
+2007,Cadillac,SRX,PK3,E67-TP1,No
+2008,Cadillac,STS,KA,E67-TP1,No
+2008,Cadillac,XLR,KA,Information not available,No
+2008,Cadillac,DTS,PK3,E67-TP1,No
+2008,Cadillac,Escalade,PK3,E38-Y2Y,Yes
+2008,Cadillac,Escalade ESV,PK3,Information not available,No
+2008,Cadillac,Escalade EXT,PK3,Information not available,No
+2008,Cadillac,SRX,PK3,E77-420,Yes
+2008,Cadillac,CTS,PK3,E77-420,Yes
+2009,Cadillac,STS,KA,E67-TP1,No
+2009,Cadillac,XLR,KA,E67-TP1,No
+2009,Cadillac,CTS,PK3,E67-TP1,No
+2009,Cadillac,DTS,PK3,E67-TP1,No
+2009,Cadillac,Escalade,PK3,E38-Y2Y,Yes
+2009,Cadillac,Escalade ESV,PK3,Information not available,No
+2009,Cadillac,Escalade EXT,PK3,Information not available,No
+2009,Cadillac,SRX,PK3,E77-420,Yes
+2010,Cadillac,STS,KA,E69-216,Yes
+2010,Cadillac,DTS,PK3,E67-TP1,No
+2010,Cadillac,Escalade,PK3,E67-AH2,No
+2010,Cadillac,Escalade ESV,PK3,Information not available,No
+2010,Cadillac,Escalade EXT,PK3,Information not available,No
+2010,Cadillac,SRX,PK3,E39-F93S,Yes
+2010,Cadillac,CTS,PK3,E39-F93S,Yes
+2011,Cadillac,STS,KA,E69-216,Yes
+2011,Cadillac,DTS,PK3,E67-TP1,No
+2011,Cadillac,Escalade,PK3,E67-AH2,No
+2011,Cadillac,Escalade ESV,PK3,Information not available,No
+2011,Cadillac,Escalade EXT,PK3,Information not available,No
+2011,Cadillac,SRX,PK3,E39-F93S,Yes
+2011,Cadillac,CTS,PK3,E39-F93S,Yes
+2012,Cadillac,CTS,PK3,E39-F93S,Yes
+2012,Cadillac,Escalade,PK3,E67-AH2,No
+2012,Cadillac,Escalade ESV,PK3,Information not available,No
+2012,Cadillac,Escalade EXT,PK3,Information not available,No
+2012,Cadillac,SRX,PK3,E39-F93S,Yes
+2013,Cadillac,Escalade,PK3,E38-AK8,Yes
+2013,Cadillac,Escalade ESV,PK3,Information not available,No
+2013,Cadillac,ATS,PK3,E39A-H98S,Yes
+2013,Cadillac,SRX,PK3,E39A-H98S,Yes
+2013,Cadillac,XTS,PK3,E39A-H98S,Yes
+2013,Cadillac,CTS,PK3,E39-X94S,Yes
