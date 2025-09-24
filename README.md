@@ -137,13 +137,6 @@ The final executable includes:
 - PDF procedure documents
 - **Size**: ~118MB standalone file
 
-## CI/CD Pipeline
-GitHub Actions workflow configured to:
-- Run automated tests on push to main branch
-- Verify code functionality
-- Ensure data integrity
-- Test build process
-
 ## System Requirements
 - **For Executable**: Windows 10+ (no additional requirements)
 - **For Development**: Python 3.12+, pip, virtual environment
