@@ -1,0 +1,12 @@
+[global]
+
+developmentMode = false
+
+[server]
+port = 8502
+headless = false
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8502

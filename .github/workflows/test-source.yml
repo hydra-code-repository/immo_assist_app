@@ -1,0 +1,31 @@
+name: Python application
+
+on:
+    push:
+        branches: 
+            - main
+
+jobs:
+    build:
+        runs-on: Windows-2022
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with: 
+                python-version: '3.12'
+            
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+
+            - name: List of files from folder data
+              run: dir data
+            
+            - name: Run tests
+              run: |
+                cd src
+                python main.py
+
+

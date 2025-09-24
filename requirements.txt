@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+jupyter
+notebook
+ipykernel
+PyInstaller
