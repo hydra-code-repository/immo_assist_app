@@ -188,7 +188,7 @@ def create_doc_file_path(vehicle_info_selected):
     
 
 # Read excel by calling to function to create the path first
-df = pd.read_excel(create_file_path('year_make_model_df.xlsx', 'data'))
+df = pd.read_excel(create_file_path('year_make_model_df.xlsx', '../data'))
 
 # Function to get an array with sorted manufacturers
 def get_manufacturer_list(df: pd.DataFrame) -> list:
@@ -255,7 +255,7 @@ def display_vehicle_info(vehicle_info: dict):
 df_name = create_df_name(selected_make)
 
 # Call the function to get the df from Data dir
-make_selected = pd.read_csv(create_file_path(df_name, 'data'))
+make_selected = pd.read_csv(create_file_path(df_name, '../data'))
 
 # Call the function to get the years list and show under a select box
 selected_year = st.sidebar.selectbox('Year: ', (get_year_list(make_selected)))
