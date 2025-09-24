@@ -1,0 +1,195 @@
+Year,Make,Model,Security,Hardware Part Number,Is this hardware clonable?
+1986,Chevrolet,Corvette,VATS,Information not available,No
+1987,Chevrolet,Corvette,VATS,Information not available,No
+1988,Chevrolet,Corvette,VATS,Information not available,No
+1989,Chevrolet,Camaro,PK1,Information not available,No
+1989,Chevrolet,Corvette,VATS,Information not available,No
+1990,Chevrolet,Camaro,PK1,Information not available,No
+1990,Chevrolet,Corvette,PK1,Information not available,No
+1991,Chevrolet,Camaro,PK1,Information not available,No
+1991,Chevrolet,Corvette,PK1,Information not available,No
+1992,Chevrolet,Camaro,PK1,Information not available,No
+1992,Chevrolet,Corvette,PK1,Information not available,No
+1993,Chevrolet,Corvette,PK1,Information not available,No
+1993,Chevrolet,Camaro,PK2,Information not available,No
+1994,Chevrolet,Corvette,PK1,U40-051,No
+1994,Chevrolet,Camaro,PK2,U30C,No
+1994,Chevrolet,Caprice/SS,PK2,U40-051,No
+1995,Chevrolet,Corvette,PK1,U40-051,No
+1995,Chevrolet,Camaro,PK2,U40-051,No
+1995,Chevrolet,Caprice/SS,PK2,U40-051,No
+1995,Chevrolet,Lumina,PK2,U30C,No
+1995,Chevrolet,Monte Carlo,PK2,U30C,No
+1995,Chevrolet,Cavalier,PL1,Information not available,No
+1996,Chevrolet,Corvette,PK1,U40-399,No
+1996,Chevrolet,Camaro,PK2,U40-399,No
+1996,Chevrolet,Caprice/SS,PK2,U40-399,No
+1996,Chevrolet,Lumina,PK2,U42C-800,No
+1996,Chevrolet,Monte Carlo,PK2,U42C-800,No
+1996,Chevrolet,Cavalier,PL1,U30B,No
+1998,Chevrolet,Suburban,PL2,Information not available,No
+1998,Chevrolet,Tahoe,PL2,U41,No
+1999,Chevrolet,Venture,PK3,U44C-482,No
+1999,Chevrolet,Suburban,PL2,U41,No
+1999,Chevrolet,Tahoe,PL2,U41,No
+2000,Chevrolet,Venture,PK3,U44C-482,No
+2000,Chevrolet,Impala,PL2,U44C-482,No
+2000,Chevrolet,Suburban,PL2,Information not available,No
+2000,Chevrolet,Tahoe,PL2,U41,No
+2001,Chevrolet,Venture,PK3,U44C-482,No
+2001,Chevrolet,Impala,PL2,U44C-482,No
+2001,Chevrolet,Suburban,PL2,U44R,No
+2001,Chevrolet,Tahoe,PL2,U44R,No
+2002,Chevrolet,Venture,PK3,U44C-482,No
+2002,Chevrolet,Avalanche,PL2,U44R,No
+2002,Chevrolet,Impala,PL2,U44C-482,No
+2002,Chevrolet,Suburban,PL2,U44R,No
+2002,Chevrolet,Tahoe,PL2,U44R,No
+2002,Chevrolet,Trailblazer,PL2,P10,No
+2003,Chevrolet,Venture,PK3,U44C-482,No
+2003,Chevrolet,Avalanche,PL2,U44G-G03,No
+2003,Chevrolet,Impala,PL2,U44C-482,No
+2003,Chevrolet,SSR,PL2,Information not available,No
+2003,Chevrolet,Suburban,PL2,U44G-G03,No
+2003,Chevrolet,Tahoe,PL2,U44G-G03,No
+2003,Chevrolet,Trailblazer,PL2,U44G-G03,No
+2004,Chevrolet,Venture,PK3,U44C-721,No
+2004,Chevrolet,Avalanche,PL2,U44G-G45,No
+2004,Chevrolet,Classic,PL2,P11,No
+2004,Chevrolet,Impala,PL2,U44C-721,No
+2004,Chevrolet,SSR,PL2,Information not available,No
+2004,Chevrolet,Suburban,PL2,U44G-G45,No
+2004,Chevrolet,Tahoe,PL2,U44G-G45,No
+2004,Chevrolet,Trailblazer,PL2,U44G-G45,No
+2004,Chevrolet,Colorado,PL3,P12-N64,No
+2005,Chevrolet,Uplander,PK3,U32-XC2,No
+2005,Chevrolet,Venture,PK3,U44C-721,No
+2005,Chevrolet,Avalanche,PL2,U44G-G45,No
+2005,Chevrolet,Classic,PL2,P11,No
+2005,Chevrolet,Equinox,PL2,U32-XJ5,No
+2005,Chevrolet,Impala,PL2,U44C-721,No
+2005,Chevrolet,SSR,PL2,E40-883,No
+2005,Chevrolet,Suburban,PL2,U44G-G45,No
+2005,Chevrolet,Tahoe,PL2,U44G-G45,No
+2005,Chevrolet,Trailblazer,PL2,P10,No
+2005,Chevrolet,Cobalt,PL3,P12-N64,No
+2005,Chevrolet,Colorado,PL3,P12-N64,No
+2006,Chevrolet,Uplander,PK3,U32-XC2,No
+2006,Chevrolet,Cobalt,PK3,E16A-14C,No
+2006,Chevrolet,HHR,PK3,Information not available,No
+2006,Chevrolet,Impala,PK3,U44C-721,No
+2006,Chevrolet,Avalanche,PL2,U44G-G45,No
+2006,Chevrolet,Classic,PL2,Information not available,No
+2006,Chevrolet,Equinox,PL2,U32-XJ5,No
+2006,Chevrolet,SSR,PL2,Information not available,No
+2006,Chevrolet,Suburban,PL2,U44G-G45,No
+2006,Chevrolet,Tahoe,PL2,U44G-G45,No
+2006,Chevrolet,Trailblazer,PL2,P12-N64,No
+2006,Chevrolet,Colorado,PL3,P12-N64,No
+2007,Chevrolet,Corvette,KA,E38-Y2Y,Yes
+2007,Chevrolet,Uplander,PK3,E67-TP1,No
+2007,Chevrolet,Avalanche,PK3,E38-Y2Y,Yes
+2007,Chevrolet,Cobalt,PK3,E67-TP1,No
+2007,Chevrolet,Equinox,PK3,E38-Y2Y,Yes
+2007,Chevrolet,HHR,PK3,E67-TP1,No
+2007,Chevrolet,Impala,PK3,E38-Y2Y,Yes
+2007,Chevrolet,Malibu,PK3,E38-Y2Y,Yes
+2007,Chevrolet,Monte Carlo,PK3,E67-TP1,No
+2007,Chevrolet,Suburban,PK3,E38-Y2Y,Yes
+2007,Chevrolet,Tahoe,PK3,E38-Y2Y,Yes
+2007,Chevrolet,C/K Truck,PL2,Information not available,No
+2007,Chevrolet,Express,PL2,U44G-G45,No
+2007,Chevrolet,Trailblazer,PL2,P12-N77,No
+2007,Chevrolet,Colorado,PL3,P12-N77,No
+2008,Chevrolet,Corvette,KA,E38-Y2Y,Yes
+2008,Chevrolet,Uplander,PK3,E67-TP1,No
+2008,Chevrolet,Avalanche,PK3,E38-Y2Y,Yes
+2008,Chevrolet,C/K Truck,PK3,Information not available,No
+2008,Chevrolet,Cobalt,PK3,E37,Yes
+2008,Chevrolet,Equinox,PK3,E77-420,Yes
+2008,Chevrolet,Express,PK3,E35-LMM,Yes
+2008,Chevrolet,HHR,PK3,E37,Yes
+2008,Chevrolet,Impala,PK3,E38-Y2Y,Yes
+2008,Chevrolet,Malibu,PK3,E67-TP1,No
+2008,Chevrolet,Suburban,PK3,E38-Y2Y,Yes
+2008,Chevrolet,Tahoe,PK3,E38-Y2Y,Yes
+2008,Chevrolet,Trailblazer,PL2,E67-TP1,No
+2008,Chevrolet,Colorado,PL3,E67-TP1,No
+2009,Chevrolet,Corvette,KA,E38-Y2Y,Yes
+2009,Chevrolet,Uplander,PK3,Information not available,No
+2009,Chevrolet,Avalanche,PK3,E38-Y2Y,Yes
+2009,Chevrolet,C/K Truck,PK3,Information not available,No
+2009,Chevrolet,Cobalt,PK3,E37,Yes
+2009,Chevrolet,Equinox,PK3,E38-Y2Y,Yes
+2009,Chevrolet,Express,PK3,E38-Y2Y,Yes
+2009,Chevrolet,HHR,PK3,E69-326,Yes
+2009,Chevrolet,Impala,PK3,E38-Y2Y,Yes
+2009,Chevrolet,Malibu,PK3,E38-Y2Y,Yes
+2009,Chevrolet,Suburban,PK3,E38-Y2Y,Yes
+2009,Chevrolet,Tahoe,PK3,E38-Y2Y,Yes
+2009,Chevrolet,Traverse,PK3,E69-216,Yes
+2009,Chevrolet,Trailblazer,PL2,E67-TP1,No
+2009,Chevrolet,Colorado,PL3,E67-TP1,No
+2010,Chevrolet,Corvette,KA,E38-AK8,Yes
+2010,Chevrolet,Avalanche,PK3,E38-AK8,Yes
+2010,Chevrolet,C/K Truck,PK3,Information not available,No
+2010,Chevrolet,Cobalt,PK3,E37,Yes
+2010,Chevrolet,Express,PK3,E38-AK8,Yes
+2010,Chevrolet,HHR,PK3,E69-326,Yes
+2010,Chevrolet,Impala,PK3,E37,Yes
+2010,Chevrolet,Malibu,PK3,E37,Yes
+2010,Chevrolet,Suburban,PK3,E38-AK8,Yes
+2010,Chevrolet,Tahoe,PK3,E38-AK8,Yes
+2010,Chevrolet,Traverse,PK3,E69-216,Yes
+2010,Chevrolet,Camaro,PK3,E38-AK8,Yes
+2010,Chevrolet,Equinox,PK3,E39-F93S,Yes
+2010,Chevrolet,Colorado,PL3,E67-TP1,No
+2011,Chevrolet,Corvette,KA,E67-TP1,No
+2011,Chevrolet,Avalanche,PK3,E38-AK8,Yes
+2011,Chevrolet,C/K Truck,PK3,Information not available,No
+2011,Chevrolet,Express,PK3,E86-A24,No
+2011,Chevrolet,HHR,PK3,E37,Yes
+2011,Chevrolet,Impala,PK3,Information not available,No
+2011,Chevrolet,Malibu,PK3,E37,Yes
+2011,Chevrolet,Suburban,PK3,E38-AK8,Yes
+2011,Chevrolet,Tahoe,PK3,E38-AK8,Yes
+2011,Chevrolet,Traverse,PK3,E69-216,Yes
+2011,Chevrolet,Camaro,PK3,E69-216,Yes
+2011,Chevrolet,Equinox,PK3,E39-F93S,Yes
+2011,Chevrolet,Cruze,PK3,E78-AB8,Yes
+2011,Chevrolet,Volt,PK3,E78-AB8,Yes
+2011,Chevrolet,Colorado,PL3,E67-TP1,No
+2012,Chevrolet,Corvette,KA,E67-TP1,No
+2012,Chevrolet,Avalanche,PK3,E38-AK8,Yes
+2012,Chevrolet,C/K Truck,PK3,Information not available,No
+2012,Chevrolet,Caprice (Police),PK3,E39-X94S,Yes
+2012,Chevrolet,Captiva,PK3,E39-X94S,Yes
+2012,Chevrolet,Express,PK3,E86-A24,No
+2012,Chevrolet,Impala,PK3,E39-X94S,Yes
+2012,Chevrolet,Malibu,PK3,E67-TP1,No
+2012,Chevrolet,Suburban,PK3,E38-AK8,Yes
+2012,Chevrolet,Tahoe,PK3,E38-AK8,Yes
+2012,Chevrolet,Traverse,PK3,E39-X94S,Yes
+2012,Chevrolet,Camaro,PK3,E39-X94S,Yes
+2012,Chevrolet,Equinox,PK3,E39-X94S,Yes
+2012,Chevrolet,Sonic,PK3,E78-AB8,Yes
+2012,Chevrolet,Cruze,PK3,E78-AB8,Yes
+2012,Chevrolet,Volt,PK3,E78-AB8,Yes
+2012,Chevrolet,Colorado,PL3,E67-TP1,No
+2013,Chevrolet,Corvette,KA,Information not available,No
+2013,Chevrolet,Avalanche,PK3,E38-AK8,Yes
+2013,Chevrolet,C/K Truck,PK3,Information not available,No
+2013,Chevrolet,Caprice (Police),PK3,E39-X94S,Yes
+2013,Chevrolet,Captiva,PK3,E39A-H98S,Yes
+2013,Chevrolet,Express,PK3,E86-A24,No
+2013,Chevrolet,Impala,PK3,E39-X94S,Yes
+2013,Chevrolet,Suburban,PK3,E38-AK8,Yes
+2013,Chevrolet,Tahoe,PK3,E38-AK8,Yes
+2013,Chevrolet,Traverse,PK3,E39A-H98S,Yes
+2013,Chevrolet,Camaro,PK3,E39A-H98S,Yes
+2013,Chevrolet,Equinox,PK3,E39A-H98S,Yes
+2013,Chevrolet,Malibu,PK3,E39A-H98S,Yes
+2013,Chevrolet,Sonic,PK3,E78-AB8,Yes
+2013,Chevrolet,Spark,PK3,E83,Yes
+2013,Chevrolet,Cruze,PK3,E78-AB8,Yes
+2013,Chevrolet,Volt,PK3,E78-AB8,Yes

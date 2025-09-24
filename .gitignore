@@ -2,8 +2,8 @@
 venv/
 
 # Ignore directories data an doc as they contain sensitive data
-data/
-docs/
+# data/
+# docs/
 
 # PyInstaller build files (too large for GitHub)
 build/

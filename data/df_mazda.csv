@@ -1,0 +1,215 @@
+Year,Make,Model,Security,ParameterReset
+1989,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1990,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1991,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1992,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1993,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1994,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1994,Mazda,Protege,No Security,Parameter Reset Not Required
+1995,Mazda,Millenia,No Security,Parameter Reset Not Required
+1995,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1995,Mazda,Protege,No Security,Parameter Reset Not Required
+1996,Mazda,Millenia,No Security,Parameter Reset Not Required
+1996,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1996,Mazda,Protege,No Security,Parameter Reset Not Required
+1997,Mazda,Millenia,No Security,Parameter Reset Not Required
+1997,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1997,Mazda,Protege,No Security,Parameter Reset Not Required
+1998,Mazda,626,M-A,Parameter Reset Not Required
+1998,Mazda,Millenia,No Security,Parameter Reset Not Required
+1998,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1998,Mazda,Protege,No Security,Parameter Reset Not Required
+1999,Mazda,626,M-A,Parameter Reset Not Required
+1999,Mazda,B-Series (3.0L & 4.0L only),PATS Type B (Stand Alone PATS Module),Parameter Reset Required
+1999,Mazda,Millenia,No Security,Parameter Reset Not Required
+1999,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+1999,Mazda,Protege,No Security,Parameter Reset Not Required
+2000,Mazda,626,M-A,Parameter Reset Not Required
+2000,Mazda,B-Series (3.0L & 4.0L only),PATS Type B (Stand Alone PATS Module),Parameter Reset Required
+2000,Mazda,Millenia,No Security,Parameter Reset Not Required
+2000,Mazda,MPV,M-A,Parameter Reset Not Required
+2000,Mazda,MX-5 (Miata),No Security,Parameter Reset Not Required
+2000,Mazda,Protege,No Security,Parameter Reset Not Required
+2001,Mazda,626,M-A,Parameter Reset Not Required
+2001,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type NA (No PATS),Parameter Reset Not Required
+2001,Mazda,Millenia,No Security,Parameter Reset Not Required
+2001,Mazda,MPV,M-A,Parameter Reset Not Required
+2001,Mazda,MX-5 (Miata),M-A,Parameter Reset Not Required
+2001,Mazda,Protege,No Security,Parameter Reset Not Required
+2001,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2002,Mazda,626,M-A,Parameter Reset Not Required
+2002,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type C (Powertrain Control Module),Parameter Reset Not Required
+2002,Mazda,Millenia,No Security,Parameter Reset Not Required
+2002,Mazda,MPV,M-A,Parameter Reset Not Required
+2002,Mazda,MX-5 (Miata),M-A,Parameter Reset Not Required
+2002,Mazda,Protege,No Security,Parameter Reset Not Required
+2002,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2003,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2003,Mazda,Mazda6,M-B,Parameter Reset Not Required
+2003,Mazda,MPV,M-A,Parameter Reset Not Required
+2003,Mazda,MX-5 (Miata),M-A,Parameter Reset Not Required
+2003,Mazda,Protege,No Security,Parameter Reset Not Required
+2003,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2004,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2004,Mazda,Mazda3,M-C,Parameter Reset Required
+2004,Mazda,Mazda6,M-B,Parameter Reset Not Required
+2004,Mazda,MPV,M-A,Parameter Reset Not Required
+2004,Mazda,MX-5 (Miata),M-A,Parameter Reset Not Required
+2004,Mazda,RX-8,M-C,Parameter Reset Required
+2004,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2005,Mazda,B-Series (3.0L & 4.0L only),PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2005,Mazda,Mazda3,M-C,Parameter Reset Required
+2005,Mazda,Mazda6,M-B,Parameter Reset Not Required
+2005,Mazda,MPV,M-A,Parameter Reset Not Required
+2005,Mazda,MX-5 (Miata),M-A,Parameter Reset Not Required
+2005,Mazda,RX-8,M-C,Parameter Reset Required
+2005,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2006,Mazda,B-Series (3.0L & 4.0L only),PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2006,Mazda,Mazda3,M-C,Parameter Reset Required
+2006,Mazda,MPV,M-A,Parameter Reset Not Required
+2006,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2007,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type G (Instrument Cluster),Parameter Reset Required
+2007,Mazda,Mazda3,M-C,Parameter Reset Required
+2007,Mazda,Mazda5,M-C,Parameter Reset Required
+2007,Mazda,Tribute,PATS Type E (Powertrain Control Module),Parameter Reset Not Required
+2008,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type G (Instrument Cluster),Parameter Reset Required
+2008,Mazda,Mazda3,M-C,Parameter Reset Required
+2008,Mazda,Mazda5,M-C,Parameter Reset Required
+2009,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type G (Instrument Cluster),Parameter Reset Required
+2009,Mazda,Mazda3,M-C,Parameter Reset Required
+2009,Mazda,Mazda5,M-C,Parameter Reset Required
+2010,Mazda,"B-Series (2.3L, 3.0L, & 4.0L)",PATS Type G (Instrument Cluster),Parameter Reset Required
+2010,Mazda,Mazda5,M-C,Parameter Reset Required
+2011,Mazda,Mazda2,M-C,Parameter Reset Required
+2011,Mazda,Mazda5,M-C,Parameter Reset Required
+2012,Mazda,Mazda2,M-C,Parameter Reset Required
+2012,Mazda,Mazda5,M-C,Parameter Reset Required
+2013,Mazda,CX-5,M-G,Parameter Reset Required
+2013,Mazda,Mazda2,M-C,Parameter Reset Required
+2013,Mazda,Mazda5,M-C,Parameter Reset Required
+2014,Mazda,CX-5,M-G,Parameter Reset Required
+2014,Mazda,Mazda2,M-C,Parameter Reset Required
+2014,Mazda,Mazda3,M-G,Parameter Reset Required
+2014,Mazda,Mazda5,M-C,Parameter Reset Required
+2014,Mazda,Mazda6,M-G,Parameter Reset Required
+2015,Mazda,CX-5,M-G,Parameter Reset Required
+2015,Mazda,Mazda3,M-G,Parameter Reset Required
+2015,Mazda,Mazda5,M-C,Parameter Reset Required
+2015,Mazda,Mazda6,M-G,Parameter Reset Required
+2016,Mazda,CX-3,M-G,Parameter Reset Required
+2016,Mazda,CX-5,M-G,Parameter Reset Required
+2016,Mazda,CX-9,M-G,Parameter Reset Required
+2016,Mazda,Mazda3,M-G,Parameter Reset Required
+2016,Mazda,Mazda5,M-C,Parameter Reset Required
+2016,Mazda,Mazda6,M-G,Parameter Reset Required
+2016,Mazda,MX-5 (Miata),M-G,Parameter Reset Required
+2017,Mazda,CX-3,M-G,Parameter Reset Required
+2017,Mazda,CX-9,M-G,Parameter Reset Required
+2017,Mazda,Mazda3,M-G,Parameter Reset Required
+2017,Mazda,Mazda5,M-C,Parameter Reset Required
+2017,Mazda,Mazda6,M-G,Parameter Reset Required
+2017,Mazda,MX-5 (Miata),M-G,Parameter Reset Required
+2018,Mazda,CX-3,M-G,Parameter Reset Required
+2018,Mazda,CX-9,M-G,Parameter Reset Required
+2018,Mazda,Mazda3,M-G,Parameter Reset Required
+2018,Mazda,Mazda6,M-G,Parameter Reset Required
+2018,Mazda,MX-5 (Miata),M-G,Parameter Reset Required
+2019,Mazda,CX-3,M-G,Parameter Reset Required
+2019,Mazda,CX-9,M-G,Parameter Reset Required
+2019,Mazda,Mazda3,M-H,Parameter Reset Not Required
+2019,Mazda,Mazda6,M-G,Parameter Reset Required
+2019,Mazda,MX-5 (Miata),M-G,Parameter Reset Required
+2020,Mazda,CX-3,M-G,Parameter Reset Required
+2020,Mazda,CX-9,M-G,Parameter Reset Required
+2020,Mazda,CX-30,M-H,Parameter Reset Not Required
+2020,Mazda,Mazda3,M-H,Parameter Reset Not Required
+2020,Mazda,Mazda6,M-G,Parameter Reset Required
+2020,Mazda,MX-5 (Miata),M-G,Parameter Reset Required
+2006,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2006,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2007,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2007,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2008,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2008,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2009,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2009,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2010,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2010,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2011,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2011,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2012,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2012,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2013,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2013,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2014,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2014,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2015,Mazda,MX-5 (Miata) (Advanced Keyless Entry w/ Keyless Start)),M-D,Parameter Reset Required
+2015,Mazda,MX-5 (Miata) (Keyless Entry w/ Keyed Ignition),M-C,Parameter Reset Required
+2006,Mazda,Mazda6 (Keyed Ignition),M-B,Parameter Reset Not Required
+2006,Mazda,Mazda6 (Advanced Keyless),M-D,Parameter Reset Not Required
+2007,Mazda,Mazda6 (Keyed Ignition),M-B,Parameter Reset Not Required
+2007,Mazda,Mazda6 (Advanced Keyless),M-D,Parameter Reset Not Required
+2008,Mazda,Mazda6 (Keyed Ignition),M-B,Parameter Reset Not Required
+2008,Mazda,Mazda6 (Advanced Keyless),M-D,Parameter Reset Not Required
+2006,Mazda,RX-8 (Keyed Ignition),M-C,Parameter Reset Required
+2006,Mazda,RX-8 (Advanced Keyless),M-D,Parameter Reset Required
+2007,Mazda,CX-7 (Keyed Ignition),M-C,Parameter Reset Required
+2007,Mazda,CX-7 (Advanced Keyless),M-D,Parameter Reset Required
+2007,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2007,Mazda,CX-9 (Advanced Keyless),M-D,Parameter Reset Required
+2007,Mazda,RX-8 (Keyed Ignition),M-C,Parameter Reset Required
+2007,Mazda,RX-8 (Advanced Keyless),M-D,Parameter Reset Required
+2008,Mazda,CX-7 (Keyed Ignition),M-C,Parameter Reset Required
+2008,Mazda,CX-7 (Advanced Keyless),M-D,Parameter Reset Required
+2008,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2008,Mazda,CX-9 (Advanced Keyless),M-D,Parameter Reset Required
+2008,Mazda,RX-8 (Keyed Ignition),M-C,Parameter Reset Required
+2008,Mazda,RX-8 (Advanced Keyless),M-D,Parameter Reset Required
+2009,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2009,Mazda,CX-9 (Advanced Keyless),M-D,Parameter Reset Required
+2009,Mazda,RX-8 (Keyed Ignition),M-C,Parameter Reset Required
+2009,Mazda,RX-8 (Advanced Keyless),M-D,Parameter Reset Required
+2010,Mazda,RX-8 (Keyed Ignition),M-C,Parameter Reset Required
+2010,Mazda,RX-8 (Advanced Keyless),M-D,Parameter Reset Required
+2011,Mazda,RX-8 (Keyed Ignition),M-C,Parameter Reset Required
+2011,Mazda,RX-8 (Advanced Keyless),M-D,Parameter Reset Required
+2009,Mazda,CX-7 (Keyed Ignition),M-C,Parameter Reset Required
+2009,Mazda,CX-7 (Advanced Keyless),M-E,Parameter Reset Required
+2010,Mazda,CX-7 (Keyed Ignition),M-C,Parameter Reset Required
+2010,Mazda,CX-7 (Advanced Keyless),M-E,Parameter Reset Required
+2011,Mazda,CX-7 (Keyed Ignition),M-C,Parameter Reset Required
+2011,Mazda,CX-7 (Advanced Keyless),M-E,Parameter Reset Required
+2012,Mazda,CX-7 (Keyed Ignition),M-C,Parameter Reset Required
+2012,Mazda,CX-7 (Advanced Keyless),M-E,Parameter Reset Required
+2015,Mazda,Mazda2 (Keyed Ignition),M-C,Parameter Reset Required
+2015,Mazda,Mazda2 (Advanced Keyless),M-E,Parameter Reset Required
+2009,Mazda,Mazda6 (Keyed Ignition),M-C,Parameter Reset Required
+2009,Mazda,Mazda6 (Advanced Keyless),M-F,Parameter Reset Required
+2010,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2010,Mazda,CX-9 (Advanced Keyless),M-F,Parameter Reset Required
+2010,Mazda,Mazda3 (Keyed Ignition),M-C,Parameter Reset Required
+2010,Mazda,Mazda3 (Advanced Keyless),M-F,Parameter Reset Required
+2010,Mazda,Mazda6 (Keyed Ignition),M-C,Parameter Reset Required
+2010,Mazda,Mazda6 (Advanced Keyless),M-F,Parameter Reset Required
+2011,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2011,Mazda,CX-9 (Advanced Keyless),M-F,Parameter Reset Required
+2011,Mazda,Mazda3 (Keyed Ignition),M-C,Parameter Reset Required
+2011,Mazda,Mazda3 (Advanced Keyless),M-F,Parameter Reset Required
+2011,Mazda,Mazda6 (Keyed Ignition),M-C,Parameter Reset Required
+2011,Mazda,Mazda6 (Advanced Keyless),M-F,Parameter Reset Required
+2012,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2012,Mazda,CX-9 (Advanced Keyless),M-F,Parameter Reset Required
+2012,Mazda,Mazda3 (Keyed Ignition),M-C,Parameter Reset Required
+2012,Mazda,Mazda3 (Advanced Keyless),M-F,Parameter Reset Required
+2012,Mazda,Mazda6 (Keyed Ignition),M-C,Parameter Reset Required
+2012,Mazda,Mazda6 (Advanced Keyless),M-F,Parameter Reset Required
+2013,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2013,Mazda,CX-9 (Advanced Keyless),M-F,Parameter Reset Required
+2013,Mazda,Mazda3 (Keyed Ignition),M-C,Parameter Reset Required
+2013,Mazda,Mazda3 (Advanced Keyless),M-F,Parameter Reset Required
+2013,Mazda,Mazda6 (Keyed Ignition),M-C,Parameter Reset Required
+2013,Mazda,Mazda6 (Advanced Keyless),M-F,Parameter Reset Required
+2014,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2014,Mazda,CX-9 (Advanced Keyless),M-F,Parameter Reset Required
+2015,Mazda,CX-9 (Keyed Ignition),M-C,Parameter Reset Required
+2015,Mazda,CX-9 (Advanced Keyless),M-F,Parameter Reset Required

@@ -1,0 +1,74 @@
+Year,Make,Model,Security,Hardware Part Number,Is this hardware clonable?
+1988,Pontiac,Firebird,GTA only,Information not available,No
+1989,Pontiac,Firebird,PK1,Information not available,No
+1990,Pontiac,Firebird,PK1,Information not available,No
+1991,Pontiac,Firebird,PK1,Information not available,No
+1992,Pontiac,Firebird,PK1,Information not available,No
+1992,Pontiac,Bonneville,PK2,Information not available,No
+1993,Pontiac,Bonneville,PK2,Information not available,No
+1993,Pontiac,Firebird,PK2,Information not available,No
+1994,Pontiac,Bonneville,PK2,Information not available,No
+1994,Pontiac,Firebird,PK2,U30C,No
+1994,Pontiac,Grand Am,PK2,U30C,No
+1995,Pontiac,Bonneville,PK2,Information not available,No
+1995,Pontiac,Firebird,PK2,U30C,No
+1995,Pontiac,Grand Am,PK2,U30C,No
+1995,Pontiac,Sunfire,PL1,Information not available,No
+1996,Pontiac,Bonneville,PK2,U42C-800,No
+1996,Pontiac,Firebird,PK2,U42C-800,No
+1996,Pontiac,Grand Am,PK2,U42C-800,No
+1996,Pontiac,Sunfire,PL1,U30B,No
+1999,Pontiac,Montana,PK3,U44C-482,No
+2000,Pontiac,Montana,PK3,U44C-482,No
+2001,Pontiac,Aztek,PK3,U44C-482,No
+2001,Pontiac,Montana,PK3,U44C-482,No
+2002,Pontiac,Aztek,PK3,U44C-482,No
+2002,Pontiac,Montana,PK3,U44C-482,No
+2003,Pontiac,Vibe,Information not available,Information not available,No
+2003,Pontiac,Aztek,PK3,U44C-482,No
+2003,Pontiac,Montana,PK3,U44C-482,No
+2004,Pontiac,GTO,Holden,U44G-G45,No
+2004,Pontiac,Vibe,Information not available,Information not available,No
+2004,Pontiac,Aztek,PK3,U44C-721,No
+2004,Pontiac,Montana,PK3,U44C-721,No
+2005,Pontiac,GTO,Holden,E40-883,No
+2005,Pontiac,Vibe,Information not available,Information not available,No
+2005,Pontiac,Montana,PK3,U32-XC2,No
+2005,Pontiac,Montana SV6,PK3,U32-XC2,No
+2005,Pontiac,G6,PK3,U32-XJ5,No
+2006,Pontiac,GTO,Holden,E40-679,No
+2006,Pontiac,Vibe,Information not available,Information not available,No
+2006,Pontiac,Montana,PK3,U32-XC2,No
+2006,Pontiac,Montana SV6,PK3,U32-XC2,No
+2006,Pontiac,G6,PK3,E67-TP1,No
+2006,Pontiac,Solstice,PK3,E67-TP1,No
+2007,Pontiac,Vibe,Information not available,Information not available,No
+2007,Pontiac,Grand Am,PK3,Information not available,No
+2007,Pontiac,Montana,PK3,E67-TP1,No
+2007,Pontiac,Montana SV6,PK3,E67-TP1,No
+2007,Pontiac,G5,PK3,E67-TP1,No
+2007,Pontiac,G6,PK3,E67-TP1,No
+2007,Pontiac,Solstice,PK3,E67-TP1,No
+2007,Pontiac,Torrent,PK3,E38-Y2Y,Yes
+2008,Pontiac,Grand Am,PK3,Information not available,No
+2008,Pontiac,Montana,PK3,Information not available,No
+2008,Pontiac,Montana SV6,PK3,Information not available,No
+2008,Pontiac,G5,PK3,Information not available,No
+2008,Pontiac,G6,PK3,E38-Y2Y,Yes
+2008,Pontiac,G8,PK3,E77-420,Yes
+2008,Pontiac,Solstice,PK3,E69-326,Yes
+2008,Pontiac,Torrent,PK3,E77-420,Yes
+2008,Pontiac,Vibe,Toyota Immobilizer,Information not available,No
+2009,Pontiac,G3,Opt,E83,Yes
+2009,Pontiac,Montana,PK3,Information not available,No
+2009,Pontiac,Montana SV6,PK3,Information not available,No
+2009,Pontiac,G5,PK3,Information not available,No
+2009,Pontiac,G6,PK3,E67-TP1,No
+2009,Pontiac,G8,PK3,E77-420,Yes
+2009,Pontiac,Solstice,PK3,Information not available,No
+2009,Pontiac,Torrent,PK3,E38-Y2Y,Yes
+2009,Pontiac,Vibe,Toyota Immobilizer,Information not available,No
+2010,Pontiac,G3,Opt,Information not available,No
+2010,Pontiac,G6,PK3,Information not available,No
+2010,Pontiac,G8,PK3,Information not available,No
+2010,Pontiac,Solstice,PK3,Information not available,No

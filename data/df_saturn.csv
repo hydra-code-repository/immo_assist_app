@@ -1,0 +1,41 @@
+Year,Make,Model,Security,Hardware Part Number,Is this hardware clonable?
+2000,Saturn,L Series,PL2,E56-242,No
+2000,Saturn,S Series,PL2,U29A,No
+2001,Saturn,L Series,PL2,E56-242,No
+2001,Saturn,S Series,PL2,U29A,No
+2002,Saturn,L Series,PL2,P11,No
+2002,Saturn,S Series,PL2,U29A,No
+2002,Saturn,Vue,PL2,U22-143,No
+2003,Saturn,L Series,PL2,P11,No
+2003,Saturn,Vue,PL2,U22-143,No
+2003,Saturn,ION,PL3,U22-TN7,No
+2004,Saturn,L Series,PL2,Information not available,No
+2004,Saturn,Vue,PL2,U22-143,No
+2004,Saturn,ION,PL3,U22-TN7,No
+2005,Saturn,Relay,PK3,U32-XC2,No
+2005,Saturn,L Series,PL2,Information not available,No
+2005,Saturn,Vue,PL2,U22-143,No
+2005,Saturn,ION,PL3,E16A-26S,No
+2006,Saturn,Relay,PK3,U32-XC2,No
+2006,Saturn,Vue,PL2,U26-698,No
+2006,Saturn,ION,PL3,E16A-26S,No
+2007,Saturn,Relay,PK3,E67-TP1,No
+2007,Saturn,Aura,PK3,E38-Y2Y,Yes
+2007,Saturn,Outlook,PK3,E67-TP1,No
+2007,Saturn,Sky,PK3,E69-438,Yes
+2007,Saturn,Vue,PL2,U22-143,No
+2007,Saturn,ION,PL3,E67-TP1,No
+2008,Saturn,Astra,Opel,U62-C20,No
+2008,Saturn,Aura,PK3,E38-Y2Y,Yes
+2008,Saturn,Outlook,PK3,E67-TP1,No
+2008,Saturn,Sky,PK3,E69-326,Yes
+2008,Saturn,Vue,PK3,E67-TP1,No
+2009,Saturn,Astra,Opel,U62-C20,No
+2009,Saturn,Aura,PK3,E67-TP1,No
+2009,Saturn,Outlook,PK3,E69-216,Yes
+2009,Saturn,Sky,PK3,Information not available,No
+2009,Saturn,Vue,PK3,E67-TP1,No
+2010,Saturn,Aura,PK3,Information not available,No
+2010,Saturn,Outlook,PK3,Information not available,No
+2010,Saturn,Sky,PK3,Information not available,No
+2010,Saturn,Vue,PK3,Information not available,No
