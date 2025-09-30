@@ -23,6 +23,19 @@ This project is an extension of [vehicle_security_system_data_cleaning](https://
 - Standalone executable for systems without Python or dependencies
 - Complete distribution package with all required files
 
+## 🎥 Application Demonstration
+
+See the application in action in the video below:
+
+[![Immobilizer Assistant Demo](https://img.shields.io/badge/🎬-View%20Demo-blue?style=for-the-badge)](https://vimeo.com/1121684000?share=copy)
+
+*The video demonstrates:*
+- Main application interface
+- Manufacturer, year, and model selection
+- Anti-theft system verification
+- PDF procedure downloads
+- Standalone executable functionality
+
 ## Technical Details
 
 ### Data Structure
@@ -147,6 +160,9 @@ GitHub Actions workflow configured to:
 ## System Requirements
 - **For Executable**: Windows 10+ (no additional requirements)
 - **For Development**: Python 3.12+, pip, virtual environment
+
+## Author
+Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
 
 ## License
 MIT
