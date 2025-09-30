@@ -141,9 +141,6 @@ The final executable includes:
 - **For Executable**: Windows 10+ (no additional requirements)
 - **For Development**: Python 3.12+, pip, virtual environment
 
-## Author
-Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
-
 ## License
 MIT
 
